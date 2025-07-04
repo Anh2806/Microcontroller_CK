@@ -1,0 +1,52 @@
+C:\Users\Phicong2004\source\repos\BAI_CUOI_KI\BAI_CUOI_KI\bin\Debug\BAI_CUOI_KI.exe.config
+C:\Users\Phicong2004\source\repos\BAI_CUOI_KI\BAI_CUOI_KI\bin\Debug\BAI_CUOI_KI.exe
+C:\Users\Phicong2004\source\repos\BAI_CUOI_KI\BAI_CUOI_KI\bin\Debug\BAI_CUOI_KI.pdb
+C:\Users\Phicong2004\source\repos\BAI_CUOI_KI\BAI_CUOI_KI\bin\Debug\ZedGraph.dll
+C:\Users\Phicong2004\source\repos\BAI_CUOI_KI\BAI_CUOI_KI\bin\Debug\ZedGraph.xml
+C:\Users\Phicong2004\source\repos\BAI_CUOI_KI\BAI_CUOI_KI\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Phicong2004\source\repos\BAI_CUOI_KI\BAI_CUOI_KI\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Phicong2004\source\repos\BAI_CUOI_KI\BAI_CUOI_KI\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Phicong2004\source\repos\BAI_CUOI_KI\BAI_CUOI_KI\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Phicong2004\source\repos\BAI_CUOI_KI\BAI_CUOI_KI\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Phicong2004\source\repos\BAI_CUOI_KI\BAI_CUOI_KI\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Phicong2004\source\repos\BAI_CUOI_KI\BAI_CUOI_KI\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Phicong2004\source\repos\BAI_CUOI_KI\BAI_CUOI_KI\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Phicong2004\source\repos\BAI_CUOI_KI\BAI_CUOI_KI\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Phicong2004\source\repos\BAI_CUOI_KI\BAI_CUOI_KI\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Phicong2004\source\repos\BAI_CUOI_KI\BAI_CUOI_KI\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Phicong2004\source\repos\BAI_CUOI_KI\BAI_CUOI_KI\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Phicong2004\source\repos\BAI_CUOI_KI\BAI_CUOI_KI\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Phicong2004\source\repos\BAI_CUOI_KI\BAI_CUOI_KI\obj\Debug\BAI_CUOI_KI.csproj.AssemblyReference.cache
+C:\Users\Phicong2004\source\repos\BAI_CUOI_KI\BAI_CUOI_KI\obj\Debug\BAI_CUOI_KI.Form1.resources
+C:\Users\Phicong2004\source\repos\BAI_CUOI_KI\BAI_CUOI_KI\obj\Debug\BAI_CUOI_KI.Properties.Resources.resources
+C:\Users\Phicong2004\source\repos\BAI_CUOI_KI\BAI_CUOI_KI\obj\Debug\BAI_CUOI_KI.csproj.GenerateResource.cache
+C:\Users\Phicong2004\source\repos\BAI_CUOI_KI\BAI_CUOI_KI\obj\Debug\BAI_CUOI_KI.csproj.CoreCompileInputs.cache
+C:\Users\Phicong2004\source\repos\BAI_CUOI_KI\BAI_CUOI_KI\obj\Debug\BAI_CUOI.A2B6CD15.Up2Date
+C:\Users\Phicong2004\source\repos\BAI_CUOI_KI\BAI_CUOI_KI\obj\Debug\BAI_CUOI_KI.exe
+C:\Users\Phicong2004\source\repos\BAI_CUOI_KI\BAI_CUOI_KI\obj\Debug\BAI_CUOI_KI.pdb
+D:\02_RIN\03_nam_ ba\Vi_dieu_Khien\VS_STUDIO\BAI_CUOI_KI\bin\Debug\BAI_CUOI_KI.exe.config
+D:\02_RIN\03_nam_ ba\Vi_dieu_Khien\VS_STUDIO\BAI_CUOI_KI\bin\Debug\BAI_CUOI_KI.exe
+D:\02_RIN\03_nam_ ba\Vi_dieu_Khien\VS_STUDIO\BAI_CUOI_KI\bin\Debug\BAI_CUOI_KI.pdb
+D:\02_RIN\03_nam_ ba\Vi_dieu_Khien\VS_STUDIO\BAI_CUOI_KI\bin\Debug\ZedGraph.dll
+D:\02_RIN\03_nam_ ba\Vi_dieu_Khien\VS_STUDIO\BAI_CUOI_KI\bin\Debug\ZedGraph.xml
+D:\02_RIN\03_nam_ ba\Vi_dieu_Khien\VS_STUDIO\BAI_CUOI_KI\bin\Debug\de\ZedGraph.resources.dll
+D:\02_RIN\03_nam_ ba\Vi_dieu_Khien\VS_STUDIO\BAI_CUOI_KI\bin\Debug\es\ZedGraph.resources.dll
+D:\02_RIN\03_nam_ ba\Vi_dieu_Khien\VS_STUDIO\BAI_CUOI_KI\bin\Debug\fr\ZedGraph.resources.dll
+D:\02_RIN\03_nam_ ba\Vi_dieu_Khien\VS_STUDIO\BAI_CUOI_KI\bin\Debug\hu\ZedGraph.resources.dll
+D:\02_RIN\03_nam_ ba\Vi_dieu_Khien\VS_STUDIO\BAI_CUOI_KI\bin\Debug\it\ZedGraph.resources.dll
+D:\02_RIN\03_nam_ ba\Vi_dieu_Khien\VS_STUDIO\BAI_CUOI_KI\bin\Debug\ja\ZedGraph.resources.dll
+D:\02_RIN\03_nam_ ba\Vi_dieu_Khien\VS_STUDIO\BAI_CUOI_KI\bin\Debug\pt\ZedGraph.resources.dll
+D:\02_RIN\03_nam_ ba\Vi_dieu_Khien\VS_STUDIO\BAI_CUOI_KI\bin\Debug\ru\ZedGraph.resources.dll
+D:\02_RIN\03_nam_ ba\Vi_dieu_Khien\VS_STUDIO\BAI_CUOI_KI\bin\Debug\sk\ZedGraph.resources.dll
+D:\02_RIN\03_nam_ ba\Vi_dieu_Khien\VS_STUDIO\BAI_CUOI_KI\bin\Debug\sv\ZedGraph.resources.dll
+D:\02_RIN\03_nam_ ba\Vi_dieu_Khien\VS_STUDIO\BAI_CUOI_KI\bin\Debug\tr\ZedGraph.resources.dll
+D:\02_RIN\03_nam_ ba\Vi_dieu_Khien\VS_STUDIO\BAI_CUOI_KI\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\02_RIN\03_nam_ ba\Vi_dieu_Khien\VS_STUDIO\BAI_CUOI_KI\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\02_RIN\03_nam_ ba\Vi_dieu_Khien\VS_STUDIO\BAI_CUOI_KI\obj\Debug\BAI_CUOI_KI.csproj.AssemblyReference.cache
+D:\02_RIN\03_nam_ ba\Vi_dieu_Khien\VS_STUDIO\BAI_CUOI_KI\obj\Debug\BAI_CUOI_KI.Form1.resources
+D:\02_RIN\03_nam_ ba\Vi_dieu_Khien\VS_STUDIO\BAI_CUOI_KI\obj\Debug\BAI_CUOI_KI.Properties.Resources.resources
+D:\02_RIN\03_nam_ ba\Vi_dieu_Khien\VS_STUDIO\BAI_CUOI_KI\obj\Debug\BAI_CUOI_KI.csproj.GenerateResource.cache
+D:\02_RIN\03_nam_ ba\Vi_dieu_Khien\VS_STUDIO\BAI_CUOI_KI\obj\Debug\BAI_CUOI_KI.csproj.CoreCompileInputs.cache
+D:\02_RIN\03_nam_ ba\Vi_dieu_Khien\VS_STUDIO\BAI_CUOI_KI\obj\Debug\BAI_CUOI.A2B6CD15.Up2Date
+D:\02_RIN\03_nam_ ba\Vi_dieu_Khien\VS_STUDIO\BAI_CUOI_KI\obj\Debug\BAI_CUOI_KI.exe
+D:\02_RIN\03_nam_ ba\Vi_dieu_Khien\VS_STUDIO\BAI_CUOI_KI\obj\Debug\BAI_CUOI_KI.pdb
