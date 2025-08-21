@@ -1,4 +1,5 @@
 **Bối cảnh thực tế và nhu cầu của đề tài**
+
 Hiện nay, việc giám sát nhiệt độ là nhu cầu quan trọng trong nhiều lĩnh vực như gia đình, công nghiệp và y tế nhằm đảm bảo an toàn và hiệu quả hoạt động. Tuy nhiên, các giải pháp hiện tại thường phức tạp và chi phí cao. Một hệ thống đơn giản, sử dụng cảm biến nhiệt độ để theo dõi, hiển thị trạng thái qua đèn và cảnh báo khi nhiệt độ cao sẽ giải quyết vấn đề này hiệu quả.
 
 
