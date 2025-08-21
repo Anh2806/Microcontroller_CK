@@ -10,6 +10,9 @@ Vi điều khiển, như STM32, cho phép tích hợp nhiều chức năng trên
 **Thiết kế chi tiết**
 
 <img width="684" height="479" alt="image" src="https://github.com/user-attachments/assets/fad0addd-9b6f-47bb-a708-cf483d50b68d" />
+<img width="388" height="784" alt="image" src="https://github.com/user-attachments/assets/bc8519f3-1b3e-43c5-9d5f-845ed405e9d2" />
+
+
 •	Các thành phần chính: 
 
 o	Vi điều khiển STM32F103C8: Trung tâm điều khiển.
