@@ -10,6 +10,14 @@ Vi điều khiển, như STM32, cho phép tích hợp nhiều chức năng trên
 **Thiết kế chi tiết**
 
 <img width="684" height="479" alt="image" src="https://github.com/user-attachments/assets/fad0addd-9b6f-47bb-a708-cf483d50b68d" />
+•	Các thành phần chính: 
+o	Vi điều khiển STM32F103C8: Trung tâm điều khiển.
+o	Cảm biến nhiệt độ LM35: Đo nhiệt độ.
+o	Mạch giao tiếp UART với máy tính: Kết nối để truyền nhận dữ liệu.
+o	Mạch hiển thị LCD 16x2: Hiển thị thông tin nhiệt độ.
+o	Mạch điều khiển quạt (qua relay): Điều chỉnh trạng thái quạt.
+o	LED và các nút nhấn: Hiển thị trạng thái và cho phép điều khiển hệ thống.
+
 
 1.	Nguồn cấp cho mạch:
 o	Nguồn 3.3V: Cung cấp cho vi điều khiển STM32, LCD, và các linh kiện khác như LM35. 
@@ -32,3 +40,4 @@ o	Đầu ra tín hiệu từ cảm biến LM35 (tỷ lệ với nhiệt độ) �
 7.	Nút nhấn Start/Stop:
 o	Nút Start khởi động hệ thống giám sát.
 o	Nút Stop dừng toàn bộ hệ thống.
+
