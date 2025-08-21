@@ -51,3 +51,12 @@ o	Đầu ra tín hiệu từ cảm biến LM35 (tỷ lệ với nhiệt độ) �
 o	Nút Start khởi động hệ thống giám sát.
 o	Nút Stop dừng toàn bộ hệ thống.
 
+<img width="644" height="262" alt="image" src="https://github.com/user-attachments/assets/c1bf66c2-6f32-42c5-8d9d-d425b96c4d1f" />
+
+- Giao diện người dung
+<img width="665" height="453" alt="image" src="https://github.com/user-attachments/assets/18d67a02-cf41-451b-a778-d20dbb01f594" />
+
+
+**Kết QUả Khi Run**
+
+<img width="665" height="349" alt="image" src="https://github.com/user-attachments/assets/9f1e529d-432f-4e7b-a2a3-6503823d1e3a" />
