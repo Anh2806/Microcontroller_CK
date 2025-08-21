@@ -6,3 +6,5 @@ Vi điều khiển, như STM32, cho phép tích hợp nhiều chức năng trên
 
 <img width="638" height="546" alt="image" src="https://github.com/user-attachments/assets/528a7b8d-d796-4b9e-bc10-2e4b0a6c9854" />
 
+**Thiết kế chi tiết**
+
