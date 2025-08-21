@@ -7,7 +7,7 @@ Vi điều khiển, như STM32, cho phép tích hợp nhiều chức năng trên
 
 <img width="638" height="546" alt="image" src="https://github.com/user-attachments/assets/528a7b8d-d796-4b9e-bc10-2e4b0a6c9854" />
 
-**Thiết kế chi tiết**
+## **Thiết kế chi tiết**
 
 <img width="684" height="479" alt="image" src="https://github.com/user-attachments/assets/fad0addd-9b6f-47bb-a708-cf483d50b68d" />
 <img width="388" height="784" alt="image" src="https://github.com/user-attachments/assets/bc8519f3-1b3e-43c5-9d5f-845ed405e9d2" />
@@ -53,10 +53,10 @@ o	Nút Stop dừng toàn bộ hệ thống.
 
 <img width="644" height="262" alt="image" src="https://github.com/user-attachments/assets/c1bf66c2-6f32-42c5-8d9d-d425b96c4d1f" />
 
-- Giao diện người dung
+## Giao diện người dung
 <img width="665" height="453" alt="image" src="https://github.com/user-attachments/assets/18d67a02-cf41-451b-a778-d20dbb01f594" />
 
 
-**Kết QUả Khi Run**
+## **Kết QUả Khi Run**
 
 <img width="665" height="349" alt="image" src="https://github.com/user-attachments/assets/9f1e529d-432f-4e7b-a2a3-6503823d1e3a" />
